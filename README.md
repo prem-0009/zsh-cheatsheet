@@ -1,6 +1,5 @@
 ## zsh-cheatsheet
 
-added change
 * ~: means home. enter ~ to go to home directory
 * ls:
     * ls [option][path]
@@ -24,4 +23,3 @@ added change
   * rm -r folder1: to remove a folder1.
 * cd: to change directory.
   * cd [path]/folder1: will change directory to folder1
-  * command shift p= search what's in VS Code
