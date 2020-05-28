@@ -1,5 +1,6 @@
 ## zsh-cheatsheet
 
+added change
 * ~: means home. enter ~ to go to home directory
 * ls:
     * ls [option][path]
