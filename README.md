@@ -22,9 +22,6 @@
   * rm file1: to remove file1.
   * rm -r folder1: to remove a folder1.
 * cd: to change directory.
-<<<<<<< HEAD
   * cd [path]/folder1: will change directory to folder1
 * command shift p= search in VS Code
-=======
   * cd [path]/folder1: will change directory to folder1
->>>>>>> 23f18b47ef7845d5fa899ef59b0b70bc34bb9c21
